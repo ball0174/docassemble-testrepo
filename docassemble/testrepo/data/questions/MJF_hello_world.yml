@@ -3,4 +3,6 @@ question: Hello World!
 mandatory: True
 subquestion: |
   Hello there!
+  
+  This subquestion was run on ${ today() }
 ---
