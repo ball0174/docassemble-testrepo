@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.testrepo',
       version='0.0.1',
       description=('To test branching and merging'),
-      long_description="# docassemble.testrepo\r\n\r\nTo test branching and merging\r\nThis line is a modification made in the prototype branch.  It doesn't exist in master or in prototype-mferrare\r\n\r\n## Author\r\n\r\nMark Ferraretto, mark.ferraretto@flinders.edu.au",
+      long_description='# docassemble.testrepo\r\n\r\nTo test branching and merging\r\nLine 4 modified 5 Dec 2019 at LLAW3301\r\n\r\n## Author\r\n\r\nMark Ferraretto, mark.ferraretto@flinders.edu.au\r\n',
       long_description_content_type='text/markdown',
       author='Mark Ferraretto',
       author_email='mark.ferraretto@flinders.edu.au',
