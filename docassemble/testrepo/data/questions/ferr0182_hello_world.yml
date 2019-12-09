@@ -2,7 +2,12 @@
 mandatory: True
 question: Hello World!
 subquestion: |
+  Hello ${ MJFname },
   Welcome to Docassemble!
   
   Bye for now...
+---
+question: Name
+fields:
+  - Input your first name: MJFname
 ---
