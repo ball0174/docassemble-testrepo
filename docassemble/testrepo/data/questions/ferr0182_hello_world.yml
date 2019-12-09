@@ -1,0 +1,8 @@
+---
+mandatory: True
+question: Hello World!
+subquestion: |
+  Welcome to Docassemble!
+  
+  Bye for now...
+---
